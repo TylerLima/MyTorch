@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTorch</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="morse_code">Morse Code</string>
+    <string name="input_message">input message</string>
+    <string name="send">Send</string>
+</resources>
